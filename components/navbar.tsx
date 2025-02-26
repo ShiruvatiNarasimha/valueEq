@@ -70,7 +70,6 @@ export function Navbar() {
               Dashboard
             </Link>
           </Button>
-          <ModeToggle />
         </div>
       </div>
     </header>
